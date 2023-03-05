@@ -102,7 +102,7 @@ void Game::UpdateModel( )
 }
 void Game::ComposeFrame( )
 {
-	// check if game started
+	// New save change for abc brunch
 	if ( !is_game_started )
 		sprite_codex.DrawTitle( 300, 200, gfx );
 	else
