@@ -102,6 +102,7 @@ void Game::UpdateModel( )
 }
 void Game::ComposeFrame( )
 {
+	// check if game started
 	if ( !is_game_started )
 		sprite_codex.DrawTitle( 300, 200, gfx );
 	else
