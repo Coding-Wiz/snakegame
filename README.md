@@ -1,2 +1,2 @@
 # snakegame
-Snake game at it finest!
+Snake game at its finest!
